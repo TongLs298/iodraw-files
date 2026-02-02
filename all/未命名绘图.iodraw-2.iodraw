@@ -102,6 +102,87 @@
         <mxCell id="4wvowcgHcEcCgcoFqeSo-35" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;任务需求分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-39" target="4wvowcgHcEcCgcoFqeSo-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-39" target="4wvowcgHcEcCgcoFqeSo-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-39" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;任务需求分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-42" target="4wvowcgHcEcCgcoFqeSo-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-42" target="4wvowcgHcEcCgcoFqeSo-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-42" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统设计&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-45" target="4wvowcgHcEcCgcoFqeSo-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-45" target="4wvowcgHcEcCgcoFqeSo-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-45" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;模型训练与验证&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-48" target="4wvowcgHcEcCgcoFqeSo-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-48" target="4wvowcgHcEcCgcoFqeSo-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-48" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统集成与测试*&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-51" target="4wvowcgHcEcCgcoFqeSo-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-51" target="4wvowcgHcEcCgcoFqeSo-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-51" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;发射前准备&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-54" target="4wvowcgHcEcCgcoFqeSo-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-54" target="4wvowcgHcEcCgcoFqeSo-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-54" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;在轨部署运行&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-56" target="4wvowcgHcEcCgcoFqeSo-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-56" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;在轨评估与扩展&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-57" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;任务定义、&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;环境建模、&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;约束条件分析&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="125" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-58" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统分层架构设计&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;AI模块设计&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;传统模块设计实现&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="205" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-59" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;&amp;nbsp;模型训练&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;Sim2Real&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;单项性能测试&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="285" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-60" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统固化&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;应急预案制定&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="450" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-61" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;软硬件集成&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;容错策略设计&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统级测试&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="365" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-62" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统在轨运行测试&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统状态监控&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;&amp;nbsp;模型微调适配&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="525" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-63" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;任务执行性能评估优化&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;技能迁移与能力扩展&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;多机协同作业&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="605" width="270" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
