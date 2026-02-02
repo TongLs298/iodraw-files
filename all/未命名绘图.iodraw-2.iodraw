@@ -18,8 +18,10 @@
         <mxCell id="4wvowcgHcEcCgcoFqeSo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-1" target="4wvowcgHcEcCgcoFqeSo-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-1" target="4wvowcgHcEcCgcoFqeSo-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="230.00000000000023" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-1" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统设计&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="200" width="120" height="60" as="geometry" />
@@ -65,9 +67,6 @@
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-11" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;在轨评估与扩展&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-16" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统分层架构设计&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;AI模块设计&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;传统模块设计实现&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="195" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-18" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;&amp;nbsp;模型训练&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;Sim2Real&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;单项性能测试&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="275" width="280" height="70" as="geometry" />
@@ -183,13 +182,22 @@
           <mxGeometry x="-70" y="570" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-64" value="任务定义" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-65" value="环境建模" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-66" value="约束条件分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-67" value="任务定义" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-68" value="环境建模" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-69" value="约束条件分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
