@@ -227,17 +227,8 @@
         <mxCell id="4wvowcgHcEcCgcoFqeSo-83" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;技能迁移与能力扩展&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-84" value="约束条件分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-84" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;多机协同作业&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="525" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-85" value="任务定义" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-86" value="环境建模" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-87" value="约束条件分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
