@@ -74,16 +74,16 @@
           <mxGeometry x="450" y="390" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-20" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统固化&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;应急预案制定&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="670" width="230" height="60" as="geometry" />
+          <mxGeometry x="450" y="670" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-22" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;软硬件集成&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;容错策略设计&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统级测试&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="530" width="230" height="60" as="geometry" />
+          <mxGeometry x="450" y="530" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-24" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统在轨运行测试&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;系统状态监控&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;&amp;nbsp;模型微调适配&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="810" width="230" height="60" as="geometry" />
+          <mxGeometry x="450" y="810" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-26" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;任务执行性能评估优化&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left; font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;技能迁移与能力扩展&lt;/span&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;多机协同作业&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fontSize=17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="950" width="230" height="60" as="geometry" />
+          <mxGeometry x="450" y="950" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
