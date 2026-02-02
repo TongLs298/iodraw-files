@@ -206,13 +206,13 @@
         <mxCell id="4wvowcgHcEcCgcoFqeSo-76" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;系统固化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-77" value="环境建模" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-77" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;应急预案制定&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-78" value="约束条件分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-79" value="任务定义" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-79" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;系统在轨运行测试&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-80" value="环境建模" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
