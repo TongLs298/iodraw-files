@@ -76,7 +76,7 @@
           <mxGeometry x="95" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-31" value="任务定义" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="118.75" width="163" height="60" as="geometry" />
+          <mxGeometry x="300" y="118.75" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-32" value="环境建模" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="117.5" width="160" height="60" as="geometry" />
@@ -85,7 +85,7 @@
           <mxGeometry x="640" y="117.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-64" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;系统分层架构设计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="198.75" width="163" height="60" as="geometry" />
+          <mxGeometry x="300" y="198.75" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-65" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;AI模块设计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="197.5" width="160" height="60" as="geometry" />
@@ -94,7 +94,7 @@
           <mxGeometry x="640" y="197.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-70" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;&amp;nbsp;模型训练&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="281.25" width="163" height="60" as="geometry" />
+          <mxGeometry x="300" y="281.25" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-71" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;Sim2Real&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="280" width="160" height="60" as="geometry" />
@@ -130,7 +130,7 @@
           <mxGeometry x="640" y="520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-82" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;任务执行性能评估优化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="601.25" width="163" height="60" as="geometry" />
+          <mxGeometry x="300" y="601.25" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-83" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;技能迁移与能力扩展&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="600" width="160" height="60" as="geometry" />
