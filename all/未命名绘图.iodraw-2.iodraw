@@ -179,7 +179,7 @@
         <mxCell id="4wvowcgHcEcCgcoFqeSo-64" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;系统分层架构设计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-65" value="环境建模" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-65" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;AI模块设计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-66" value="约束条件分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
