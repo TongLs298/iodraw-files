@@ -138,7 +138,7 @@
         <mxCell id="4wvowcgHcEcCgcoFqeSo-84" value="&lt;span style=&quot;font-size: 17px; text-align: left;&quot;&gt;多机协同作业&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-5" target="4wvowcgHcEcCgcoFqeSo-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="610" as="sourcePoint" />
             <mxPoint x="360" y="560" as="targetPoint" />
