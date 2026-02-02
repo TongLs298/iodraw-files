@@ -58,6 +58,9 @@
             <mxPoint x="300" y="550.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-9" target="4wvowcgHcEcCgcoFqeSo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-9" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;在轨部署运行&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="520" width="160" height="60" as="geometry" />
         </mxCell>
@@ -137,6 +140,9 @@
             <mxPoint x="310" y="610" as="sourcePoint" />
             <mxPoint x="360" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-92" target="4wvowcgHcEcCgcoFqeSo-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-92" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;发射前准备&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="440" width="160" height="60" as="geometry" />
