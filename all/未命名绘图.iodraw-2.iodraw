@@ -53,9 +53,6 @@
         <mxCell id="4wvowcgHcEcCgcoFqeSo-7" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;发射前准备&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="440" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-9" target="4wvowcgHcEcCgcoFqeSo-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="550.0000000000002" as="targetPoint" />
