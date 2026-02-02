@@ -76,10 +76,10 @@
           <mxGeometry x="95" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-31" value="任务定义" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="317" y="117.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="317" y="117.5" width="163" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-32" value="环境建模" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="117.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="117.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-33" value="约束条件分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="117.5" width="120" height="60" as="geometry" />
