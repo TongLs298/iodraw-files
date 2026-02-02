@@ -64,7 +64,7 @@
         <mxCell id="4wvowcgHcEcCgcoFqeSo-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;在轨评估与扩展&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="250" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-14" value="&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;任务定义&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp;环境建模&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp;约束条件分析&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-14" value="&lt;span style=&quot;text-align: left;&quot;&gt;任务定义&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;环境建模&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;约束条件分析&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="110" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-16" value="&lt;span style=&quot;text-align: left;&quot;&gt;系统分层架构设计&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp;AI模块设计&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp;传统模块设计实现&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -83,7 +83,7 @@
           <mxGeometry x="450" y="810" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-26" value="&lt;span style=&quot;text-align: left;&quot;&gt;任务执行性能评估优化&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp;技能迁移与能力扩展&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp;多机协同作业&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="950" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-28" value="1.  **任务需求分析**&#xa;    *  &#xa;&#xa;&#xa;2.  ****&#xa;    *   &#xa;&#xa;&#xa;3.  ****&#xa;    * &#xa;&#xa;4.  ***&#xa;    *  &#xa;&#xa;5.  ****&#xa;    *   &#xa;6.  ****&#xa;    *   &#xa;&#xa;7.  ****&#xa;    *   " style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="90" width="180" height="580" as="geometry" />
