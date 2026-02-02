@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-9" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;在轨部署运行&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="520" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4wvowcgHcEcCgcoFqeSo-11">
           <mxGeometry relative="1" as="geometry">
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-11" value="&lt;span style=&quot;text-align: left; font-size: 17px;&quot;&gt;在轨评估与扩展&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="600" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-31" value="任务定义" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="117.5" width="180" height="60" as="geometry" />
