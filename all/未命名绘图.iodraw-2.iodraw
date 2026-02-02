@@ -70,7 +70,7 @@
         <mxCell id="4wvowcgHcEcCgcoFqeSo-14" value="&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;任务定义&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp;环境建模&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp;约束条件分析&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-16" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-16" value="&lt;span style=&quot;text-align: left;&quot;&gt;系统分层架构设计&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp;AI模块设计&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; *&amp;nbsp; &amp;nbsp;传统模块设计实现&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvowcgHcEcCgcoFqeSo-18" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -88,7 +88,7 @@
         <mxCell id="4wvowcgHcEcCgcoFqeSo-26" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4wvowcgHcEcCgcoFqeSo-28" value="1.  **任务需求分析**&#xa;    *  &#xa;&#xa;&#xa;2.  ****&#xa;    *   系统分层架构设计&#xa;    *   AI模块设计&#xa;    *   传统模块设计实现&#xa;&#xa;&#xa;3.  ****&#xa;    *   模型训练&#xa;    *   Sim2Real&#xa;    *   单项性能测试&#xa;&#xa;&#xa;4.  **系统集成与测试**&#xa;    *   软硬件集成&#xa;    *   容错策略设计&#xa;    *   系统级测试&#xa;&#xa;&#xa;5.  **发射前准备**&#xa;    *   系统固化&#xa;    *   应急预案制定&#xa;&#xa;&#xa;6.  **在轨部署运行**&#xa;    *   系统在轨运行测试&#xa;    *   系统状态监控&#xa;    *   模型微调适配&#xa;&#xa;&#xa;7.  **在轨评估与扩展**&#xa;    *   任务执行性能评估优化&#xa;    *   技能迁移与能力扩展&#xa;    *   多机协同作业" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4wvowcgHcEcCgcoFqeSo-28" value="1.  **任务需求分析**&#xa;    *  &#xa;&#xa;&#xa;2.  ****&#xa;    *   &#xa;&#xa;&#xa;3.  ****&#xa;    * &#xa;&#xa;4.  **系统集成与测试**&#xa;    *   软硬件集成&#xa;    *   容错策略设计&#xa;    *   系统级测试&#xa;&#xa;&#xa;5.  **发射前准备**&#xa;    *   系统固化&#xa;    *   应急预案制定&#xa;&#xa;&#xa;6.  **在轨部署运行**&#xa;    *   系统在轨运行测试&#xa;    *   系统状态监控&#xa;    *   模型微调适配&#xa;&#xa;&#xa;7.  **在轨评估与扩展**&#xa;    *   任务执行性能评估优化&#xa;    *   技能迁移与能力扩展&#xa;    *   多机协同作业" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="90" width="180" height="580" as="geometry" />
         </mxCell>
       </root>
