@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-23" value="是否检测到关键点" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;spacing=2;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="291.25" y="280" width="177.5" height="55" as="geometry" />
+          <mxGeometry x="260.63" y="280" width="238.75" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Nt27IsxZevm5JqW2LBYw-1" value="结束" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;spacing=2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="532" width="200" height="60" as="geometry" />
