@@ -28,8 +28,13 @@
         <mxCell id="Nt27IsxZevm5JqW2LBYw-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;spacing=2;strokeWidth=2;" edge="1" parent="1" source="Tdr0mqPRLJ1cO0losQha-11" target="Nt27IsxZevm5JqW2LBYw-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nt27IsxZevm5JqW2LBYw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tdr0mqPRLJ1cO0losQha-11" target="Tdr0mqPRLJ1cO0losQha-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Nt27IsxZevm5JqW2LBYw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Tdr0mqPRLJ1cO0losQha-11" target="Tdr0mqPRLJ1cO0losQha-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="482" />
+              <mxPoint x="210" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-11" value="小车运动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;spacing=2;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="280" y="452" width="200" height="60" as="geometry" />
