@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-23" value="是否检测到关键点" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="345" y="280" width="150" height="55" as="geometry" />
+          <mxGeometry x="340" y="280" width="175" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
