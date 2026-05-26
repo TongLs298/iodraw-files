@@ -10,6 +10,9 @@
         <mxCell id="Tdr0mqPRLJ1cO0losQha-3" value="系统初始化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="280" y="120" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Nt27IsxZevm5JqW2LBYw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tdr0mqPRLJ1cO0losQha-5" target="Tdr0mqPRLJ1cO0losQha-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-5" value="监测USB摄像头数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="280" y="200" width="200" height="60" as="geometry" />
         </mxCell>
@@ -17,13 +20,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-7" value="手势分类" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="282.5" y="380" width="200" height="60" as="geometry" />
+          <mxGeometry x="282.5" y="360" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nt27IsxZevm5JqW2LBYw-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tdr0mqPRLJ1cO0losQha-11" target="Nt27IsxZevm5JqW2LBYw-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-11" value="小车运动" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="282.5" y="460" width="200" height="60" as="geometry" />
+          <mxGeometry x="282.5" y="440" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="Tdr0mqPRLJ1cO0losQha-19" target="Tdr0mqPRLJ1cO0losQha-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,10 +56,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-23" value="是否检测到关键点" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="242.5" y="300" width="275" height="55" as="geometry" />
+          <mxGeometry x="242.5" y="280" width="275" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Nt27IsxZevm5JqW2LBYw-1" value="结束" style="whiteSpace=wrap;html=1;fontSize=13;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="282.5" y="540" width="200" height="60" as="geometry" />
+          <mxGeometry x="282.5" y="520" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
