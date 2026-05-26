@@ -743,9 +743,9 @@
             <Array as="points">
               <mxPoint x="465" y="1180" />
               <mxPoint x="475" y="1170" />
+              <mxPoint x="480" y="1170" />
               <mxPoint x="470" y="1160" />
-              <mxPoint x="415" y="1160" />
-              <mxPoint x="395" y="1150" />
+              <mxPoint x="395" y="1160" />
               <mxPoint x="375" y="1170" />
               <mxPoint x="380" y="1180" />
             </Array>
