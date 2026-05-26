@@ -10,6 +10,9 @@
         <mxCell id="Tdr0mqPRLJ1cO0losQha-3" value="系统初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tdr0mqPRLJ1cO0losQha-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tdr0mqPRLJ1cO0losQha-5" target="Tdr0mqPRLJ1cO0losQha-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-5" value="监测USB摄像头数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -33,9 +36,6 @@
         </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-19" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Tdr0mqPRLJ1cO0losQha-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tdr0mqPRLJ1cO0losQha-23" target="Tdr0mqPRLJ1cO0losQha-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-23" value="是否检测到关键点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="285" width="150" height="55" as="geometry" />
