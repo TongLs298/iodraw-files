@@ -368,27 +368,6 @@
         <mxCell id="7FbqOXdmzXLnmnfc3W6G-106" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#f34316;fillColor=#fa0505;" vertex="1" parent="1">
           <mxGeometry x="540" y="940" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="7FbqOXdmzXLnmnfc3W6G-111" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#f34316;strokeWidth=5;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="940" as="sourcePoint" />
-            <mxPoint x="250" y="890" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7FbqOXdmzXLnmnfc3W6G-112" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#f34316;strokeWidth=5;dashed=1;dashPattern=1 1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="940" as="sourcePoint" />
-            <mxPoint x="300" y="880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7FbqOXdmzXLnmnfc3W6G-113" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#f34316;strokeWidth=5;dashed=1;dashPattern=1 1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="940" as="sourcePoint" />
-            <mxPoint x="240" y="940" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7FbqOXdmzXLnmnfc3W6G-114" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#f34316;fillColor=#fa0505;" vertex="1" parent="1">
-          <mxGeometry x="300" y="940" width="10" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="7FbqOXdmzXLnmnfc3W6G-116" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#f34316;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="520" as="sourcePoint" />
