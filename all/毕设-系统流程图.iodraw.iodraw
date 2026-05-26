@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Nt27IsxZevm5JqW2LBYw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tdr0mqPRLJ1cO0losQha-3" target="Tdr0mqPRLJ1cO0losQha-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-3" value="系统初始化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="280" y="120" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-5" value="监测USB摄像头数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="270" y="200" width="210" height="60" as="geometry" />
+          <mxGeometry x="280" y="200" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nt27IsxZevm5JqW2LBYw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tdr0mqPRLJ1cO0losQha-7" target="Tdr0mqPRLJ1cO0losQha-11">
           <mxGeometry relative="1" as="geometry" />
