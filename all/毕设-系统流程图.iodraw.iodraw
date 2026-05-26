@@ -40,7 +40,7 @@
         <mxCell id="Tdr0mqPRLJ1cO0losQha-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tdr0mqPRLJ1cO0losQha-23" target="Tdr0mqPRLJ1cO0losQha-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tdr0mqPRLJ1cO0losQha-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tdr0mqPRLJ1cO0losQha-26">
+        <mxCell id="Tdr0mqPRLJ1cO0losQha-29" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tdr0mqPRLJ1cO0losQha-26">
           <mxGeometry x="0.4889" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tdr0mqPRLJ1cO0losQha-23" value="是否检测到关键点" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="285" width="150" height="55" as="geometry" />
+          <mxGeometry x="345" y="280" width="150" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
