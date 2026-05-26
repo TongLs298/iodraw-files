@@ -730,6 +730,7 @@
             <Array as="points">
               <mxPoint x="170" y="1420" />
               <mxPoint x="140" y="1400" />
+              <mxPoint x="120" y="1390" />
               <mxPoint x="90" y="1390" />
               <mxPoint x="40" y="1410" />
             </Array>
