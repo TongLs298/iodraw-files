@@ -64,7 +64,7 @@
         <mxCell id="O3a0ytOVertShHIpwJWu-12" value="104" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3a0ytOVertShHIpwJWu-13" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;构造分段奖励函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O3a0ytOVertShHIpwJWu-13" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;构建&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:楷体_GB2312;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;A-MASAC&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;网络结构&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="560" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O3a0ytOVertShHIpwJWu-14" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
@@ -80,19 +80,34 @@
           <mxGeometry x="640" y="560" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O3a0ytOVertShHIpwJWu-16" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;构造分段奖励函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="460" width="480" height="80" as="geometry" />
+          <mxGeometry x="120" y="680" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O3a0ytOVertShHIpwJWu-17" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="500" as="sourcePoint" />
-            <mxPoint x="660" y="470" as="targetPoint" />
+            <mxPoint x="600" y="720" as="sourcePoint" />
+            <mxPoint x="640" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="470" />
+              <mxPoint x="610" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="O3a0ytOVertShHIpwJWu-18" value="104" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="660" y="460" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-19" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;构造分段奖励函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="800" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-20" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="840" as="sourcePoint" />
+            <mxPoint x="640" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-21" value="104" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
