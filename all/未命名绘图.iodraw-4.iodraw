@@ -52,16 +52,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3a0ytOVertShHIpwJWu-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="O3a0ytOVertShHIpwJWu-9" value="101" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3a0ytOVertShHIpwJWu-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="O3a0ytOVertShHIpwJWu-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3a0ytOVertShHIpwJWu-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="O3a0ytOVertShHIpwJWu-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3a0ytOVertShHIpwJWu-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="O3a0ytOVertShHIpwJWu-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
