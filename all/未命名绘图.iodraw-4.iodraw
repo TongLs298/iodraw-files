@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O3a0ytOVertShHIpwJWu-1" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;构建双臂机器人运动学模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O3a0ytOVertShHIpwJWu-1" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:10.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;依据双臂桁架装配场景获取双臂关节向量角、关节角约束，构建双臂机器人运动学模型，并获得机械臂末端速度矢量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O3a0ytOVertShHIpwJWu-2" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
@@ -41,14 +41,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O3a0ytOVertShHIpwJWu-7" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;构造分段奖励函数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="440" width="480" height="80" as="geometry" />
+          <mxGeometry x="120" y="680" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O3a0ytOVertShHIpwJWu-8" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="480" as="sourcePoint" />
-            <mxPoint x="640" y="450" as="targetPoint" />
+            <mxPoint x="600" y="720" as="sourcePoint" />
+            <mxPoint x="640" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="610" y="450" />
+              <mxPoint x="610" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -65,9 +65,39 @@
           <mxGeometry x="640" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O3a0ytOVertShHIpwJWu-13" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;构建&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:楷体_GB2312;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;A-MASAC&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;网络结构&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="560" width="480" height="80" as="geometry" />
+          <mxGeometry x="120" y="800" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O3a0ytOVertShHIpwJWu-14" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="840" as="sourcePoint" />
+            <mxPoint x="640" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-15" value="105" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-16" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;构建双臂无碰撞运动训练策略，获得训练后的双臂无碰撞协调运动规划策略网络&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="920" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-17" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="960" as="sourcePoint" />
+            <mxPoint x="640" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-18" value="106" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-22" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;定义每条机械臂的动作向量&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-23" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="600" as="sourcePoint" />
             <mxPoint x="640" y="570" as="targetPoint" />
@@ -76,23 +106,65 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3a0ytOVertShHIpwJWu-15" value="105" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="640" y="560" width="60" height="30" as="geometry" />
+        <mxCell id="O3a0ytOVertShHIpwJWu-25" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;获得每条机械臂的局部状态向量、双臂联合状态空间&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O3a0ytOVertShHIpwJWu-16" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;楷体_GB2312&amp;quot;,serif;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;构建双臂无碰撞运动训练策略，获得训练后的双臂无碰撞协调运动规划策略网络&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="680" width="480" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="O3a0ytOVertShHIpwJWu-17" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
+        <mxCell id="O3a0ytOVertShHIpwJWu-26" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="720" as="sourcePoint" />
-            <mxPoint x="640" y="690" as="targetPoint" />
+            <mxPoint x="600" y="480" as="sourcePoint" />
+            <mxPoint x="640" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="610" y="690" />
+              <mxPoint x="610" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3a0ytOVertShHIpwJWu-18" value="106" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="640" y="680" width="60" height="30" as="geometry" />
+        <mxCell id="O3a0ytOVertShHIpwJWu-27" value="107" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-28" value="108" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="O3a0ytOVertShHIpwJWu-3" target="O3a0ytOVertShHIpwJWu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O3a0ytOVertShHIpwJWu-3" target="O3a0ytOVertShHIpwJWu-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O3a0ytOVertShHIpwJWu-5" target="O3a0ytOVertShHIpwJWu-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="O3a0ytOVertShHIpwJWu-7" target="O3a0ytOVertShHIpwJWu-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="450" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="O3a0ytOVertShHIpwJWu-22" target="O3a0ytOVertShHIpwJWu-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="450" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-35" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O3a0ytOVertShHIpwJWu-7" target="O3a0ytOVertShHIpwJWu-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="450" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3a0ytOVertShHIpwJWu-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O3a0ytOVertShHIpwJWu-13" target="O3a0ytOVertShHIpwJWu-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="780" as="sourcePoint" />
+            <mxPoint x="450" y="730" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
